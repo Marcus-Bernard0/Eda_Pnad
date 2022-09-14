@@ -1,17 +1,19 @@
-# Nome do meu projeto
+# Análise Exploratória PNAD 2015
 
 Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Análise Exploratória - PNAD 2015**
+| :label: Tecnologias | Python, Jupyter, Power BI
+| :rocket: URL         | https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/1%20-%20Projeto%20PNAD
+| :fire: Portifólio     | https://sites.google.com/view/marcusbernardo
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/Marcus-Bernard0/Data-Science-projects/blob/master/1%20-%20Projeto%20PNAD/anos%20de%20estudo.png?text=anos+de+estudo#vitrinedev)
 
 ## Detalhes do projeto
+* Primeiro projeto com foco na exploração do dados.
+* No final, tem o dashboard feito no Power BI. Para visualizar, veja no meu site. https://sites.google.com/view/marcusbernardo/projetos/data-science/projetct-1-pnad?authuser=0
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
